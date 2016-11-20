@@ -77,3 +77,11 @@ public class Prototype{
 
 	}
 }
+
+/*RESUMEN - Creación
+	Singleton: Un solo objeto para todas las clases que lo llamen.
+	Factory: Una fábrica de objetos en tiempo de ejecución.
+	Abstract Factory: Una fábrica de fábricas.
+	Builder: Permite que el cliente controle el proceso de construcción del objeto.
+	Prototype: Permite clonar objets en tiempo de ejecución.
+*/
